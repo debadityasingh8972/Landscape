@@ -2,7 +2,7 @@
 
 An exploration of an animated interactive landscape built with three.js. By André Mattos.
 
-![Interactive Landscape](https://tympanus.net/codrops/wp-content/uploads/2018/12/landscape_featured.jpg)
+![Interactive Landscape]('E:\Next Level Projects (Archived)\InteractiveLandscape\img\SS1.JPG')
 
 
 ## Credits

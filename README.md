@@ -2,7 +2,7 @@
 
 An exploration of an animated interactive landscape built with three.js. By André Mattos.
 
-![Interactive Landscape]('InteractiveLandscape\img\SS1.JPG')
+![Interactive Landscape]('img\SS1.JPG')
 
 
 ## Credits
